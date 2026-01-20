@@ -1,0 +1,30 @@
+{
+  "_description": "This document is a configuration file for the automation of the manual application on the regulonDB site.",
+  "_note": "Before committing please validate the json structure, https://jsonformatter.curiousconcept.com/ ",
+  "sites": [
+    {
+      "_url": "aboutUs",
+      "title": "AboutUs",
+      "description": "Information about regulonDB ",
+      "keyWords": "licence contact",
+      "imgUrl": "https://source.unsplash.com/random?wallpapers",
+      "sections": [
+        {
+          "_url": "credits",
+          "title":"Credits",
+          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/00_about_policies/credits.md"
+        },
+        {
+          "_url": "contactUs",
+          "title":"Contact Us",
+          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/00_about_policies/contact_us.md"
+        },
+        {
+          "_url": "whats-regulonDB",
+          "title":"What is RegulonDB",
+          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/00_about_policies/about_us.md"
+        }
+      ]
+    }
+  ]
+}
