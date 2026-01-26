@@ -25,6 +25,20 @@
           "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/00_about_policies/about_us.md"
         }
       ]
+    },
+    {
+      "_url": "help",
+      "title": "help",
+      "description": "Help for RegulonDB ",
+      "keyWords": "licence contact",
+      "imgUrl": "https://source.unsplash.com/random?wallpapers",
+      "sections": [
+        {
+          "_url": "search-and-browse",
+          "title":"Search and Browse",
+          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/01_search_browse/README.md"
+        }
+      ]
     }
   ]
 }
