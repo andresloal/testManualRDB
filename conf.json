@@ -10,9 +10,14 @@
       "imgUrl": "https://source.unsplash.com/random?wallpapers",
       "sections": [
         {
-          "_url": "credits",
-          "title":"Credits",
-          "rawUrl": "/main/00_about_policies/credits.md"
+          "_url": "introduction",
+          "title":"Introduction",
+          "rawUrl": "/main/00_about_policies/README.md"
+        },
+        {
+          "_url": "about-RegulonDB",
+          "title":"About RegulonDB",
+          "rawUrl": "/main/00_about_policies/about_us.md"
         },
         {
           "_url": "contact-us",
@@ -20,9 +25,49 @@
           "rawUrl": "/main/00_about_policies/contact_us.md"
         },
         {
-          "_url": "whats-regulonDB",
-          "title":"What is RegulonDB",
-          "rawUrl": "/main/00_about_policies/about_us.md"
+          "_url": "credits",
+          "title":"Credits",
+          "rawUrl": "/main/00_about_policies/credits.md"
+        },
+        {
+          "_url": "funding",
+          "title":"Funding",
+          "rawUrl": "/main/00_about_policies/funding.md"
+        },
+        {
+          "_url": "how-to-cite",
+          "title":"How To Cite",
+          "rawUrl": "/main/00_about_policies/how_to_cite.md"
+        },
+        {
+          "_url": "fair-data-policy",
+          "title":"Fair Data Policy",
+          "rawUrl": "/main/00_about_policies/fair_policy.md"
+        },
+        {
+          "_url": "ethics-download-policy",
+          "title":"Ethics and Download Policy",
+          "rawUrl": "/main/00_about_policies/ethics_and_download_policy.md"
+        },
+        {
+          "_url": "license",
+          "title":"License",
+          "rawUrl": "/main/00_about_policies/license.md"
+        },
+        {
+          "_url": "terms-conditions",
+          "title":"Terms and Conditions",
+          "rawUrl": "/main/00_about_policies/terms_conditions.md"
+        },
+        {
+          "_url": "privacy-policy",
+          "title":"Privacy Policy",
+          "rawUrl": "/main/00_about_policies/privacy_policy.md"
+        },
+        {
+          "_url": "cookie-policy",
+          "title":"Cookie Policy",
+          "rawUrl": "/main/00_about_policies/cookie_policy.md"
         }
       ]
     },
