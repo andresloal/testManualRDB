@@ -12,17 +12,17 @@
         {
           "_url": "credits",
           "title":"Credits",
-          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/00_about_policies/credits.md"
+          "rawUrl": "/main/00_about_policies/credits.md"
         },
         {
           "_url": "contact-us",
           "title":"Contact Us",
-          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/00_about_policies/contact_us.md"
+          "rawUrl": "/main/00_about_policies/contact_us.md"
         },
         {
           "_url": "whats-regulonDB",
           "title":"What is RegulonDB",
-          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/00_about_policies/about_us.md"
+          "rawUrl": "/main/00_about_policies/about_us.md"
         }
       ]
     },
@@ -36,7 +36,7 @@
         {
           "_url": "search-and-browse",
           "title":"Search and Browse",
-          "rawUrl": "https://raw.githubusercontent.com/andresloal/testManualRDB/main/01_search_browse/README.md"
+          "rawUrl": "/main/01_search_browse/README.md"
         }
       ]
     }
