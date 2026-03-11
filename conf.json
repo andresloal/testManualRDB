@@ -30,9 +30,9 @@
           "rawUrl": "/main/00_about_policies/credits.md"
         },
         {
-          "_url": "funding",
-          "title":"Funding",
-          "rawUrl": "/main/00_about_policies/funding.md"
+          "_url": "funding-credits",
+          "title":"Funding Credits",
+          "rawUrl": "/main/00_about_policies/funding_credits.md"
         },
         {
           "_url": "how-to-cite",
@@ -43,6 +43,11 @@
           "_url": "fair-data-policy",
           "title":"Fair Data Policy",
           "rawUrl": "/main/00_about_policies/fair_policy.md"
+        },
+        {
+          "_url": "data-preservation-policy",
+          "title":"Data Preservation Policy",
+          "rawUrl": "/main/00_about_policies/data_preservation_policy.md"
         },
         {
           "_url": "ethics-download-policy",
@@ -68,6 +73,26 @@
           "_url": "cookie-policy",
           "title":"Cookie Policy",
           "rawUrl": "/main/00_about_policies/cookie_policy.md"
+        },
+        {
+          "_url": "global-dimension",
+          "title":"Global Dimension",
+          "rawUrl": "/main/00_about_policies/global_dimension.md"
+        },
+        {
+          "_url": "governance-advisory",
+          "title":"Governance Advisory",
+          "rawUrl": "/main/00_about_policies/governance_advisory.md"
+        },
+        {
+          "_url": "helpdesk-protocol",
+          "title":"Helpdesk Protocol",
+          "rawUrl": "/main/00_about_policies/helpdesk_protocol.md"
+        },
+        {
+          "_url": "staff-effort-fte",
+          "title":"Staff Effort FTE",
+          "rawUrl": "/main/00_about_policies/staff_effort_fte.md"
         }
       ]
     },
