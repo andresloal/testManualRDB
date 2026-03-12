@@ -10,12 +10,12 @@
       "imgUrl": "https://source.unsplash.com/random?wallpapers",
       "sections": [
         {
-          "_url": "introduction",
-          "title":"Introduction",
+          "_url": "about-policies",
+          "title":"About Policies",
           "rawUrl": "/main/00_about_policies/README.md"
         },
         {
-          "_url": "about-RegulonDB",
+          "_url": "about-us.md",
           "title":"About RegulonDB",
           "rawUrl": "/main/00_about_policies/about_us.md"
         },
@@ -25,7 +25,7 @@
           "rawUrl": "/main/00_about_policies/contact_us.md"
         },
         {
-          "_url": "credits",
+          "_url": "credits.md",
           "title":"Credits",
           "rawUrl": "/main/00_about_policies/credits.md"
         },
