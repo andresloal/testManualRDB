@@ -20,7 +20,7 @@
           "rawUrl": "/main/00_about_policies/about_us.md"
         },
         {
-          "_url": "contact-us.md",
+          "_url": "contact_us.md",
           "title":"Contact Us",
           "rawUrl": "/main/00_about_policies/contact_us.md"
         },
@@ -40,7 +40,7 @@
           "rawUrl": "/main/00_about_policies/how_to_cite.md"
         },
         {
-          "_url": "fair_data_policy.md",
+          "_url": "fair_policy.md",
           "title":"Fair Data Policy",
           "rawUrl": "/main/00_about_policies/fair_policy.md"
         },
@@ -85,9 +85,9 @@
           "rawUrl": "/main/00_about_policies/governance_advisory.md"
         },
         {
-          "_url": "helpdesk_protocol.md",
+          "_url": "helpdesk-protocol.md",
           "title":"Helpdesk Protocol",
-          "rawUrl": "/main/00_about_policies/helpdesk_protocol.md"
+          "rawUrl": "/main/00_about_policies/helpdesk-protocol.md"
         },
         {
           "_url": "staff_effort_fte.md",
